@@ -1,0 +1,16 @@
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
+sentence-transformers==3.1.1
+torch==2.4.1
+tqdm==4.67.1
+matplotlib==3.9.2
+seaborn==0.13.2
+pyarrow==18.0.0
+jupyterlab==4.3.1
+ipykernel==6.29.5
+lightgbm==4.5.0
+xgboost==2.1.2
+fastapi==0.115.6
+uvicorn==0.32.1
+python-dotenv==1.0.1
